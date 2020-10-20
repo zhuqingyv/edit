@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js",
+    "test": "node inspect ./index.js",
+    "start": "forever -o out.log -e err.log index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "v14.10.1"
+  },
+  "dependencies": {
+    "forever": "^3.0.2",
+    "http-server": "^0.12.3",
+    "killport2": "^1.0.4",
+    "node-uuid": "^1.4.8",
+    "ws": "^7.3.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "mighty",
+    "contents": [
+        {
+            "name": "abc",
+            "contents": [
+                {
+                    "name": "abc的文章",
+                    "contents": [
+                        {
+                            "name": "userData",
+                            "note": [],
+                            "contents": [],
+                            "type": "list"
+                        }
+                    ],
+                    "type": "artical"
+                }
+            ],
+            "type": "class"
+        }
+    ],
+    "type": "project"
+}
