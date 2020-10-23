@@ -1,5 +1,6 @@
 {
     "name": "gameEditor",
     "contents": [],
-    "type": "project"
+    "type": "project",
+    "id": "gameEditor"
 }

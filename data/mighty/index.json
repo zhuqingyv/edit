@@ -2,23 +2,54 @@
     "name": "mighty",
     "contents": [
         {
-            "name": "abc",
+            "name": "项目介绍",
             "contents": [
                 {
-                    "name": "abc的文章",
+                    "name": "项目规划",
                     "contents": [
                         {
-                            "name": "userData",
+                            "name": "工具开发人员",
                             "note": [],
-                            "contents": [],
-                            "type": "list"
+                            "contents": [
+                                {
+                                    "name": "职责",
+                                    "type": "item",
+                                    "contentRender": "1.互动游戏基础功能的迭代以及增量；&splitCode;<div class=\"mouseLine\"></div>&splitCode;",
+                                    "id": "3a998b1b-4df0-45ff-b090-071d6d834b5a"
+                                }
+                            ],
+                            "type": "list",
+                            "id": "e51c3552-d5d4-4fb1-9859-272ffe33c806"
+                        },
+                        {
+                            "name": "游戏模板外包人员",
+                            "note": [],
+                            "contents": [
+                                {
+                                    "name": "api名称",
+                                    "type": "item",
+                                    "contentRender": "我的天空1234",
+                                    "id": "b43f4be0-f672-4957-b37a-624a46c7c522"
+                                }
+                            ],
+                            "type": "list",
+                            "id": "b50b75cb-941e-4e83-ad60-32d73f2b9d1e"
                         }
                     ],
-                    "type": "artical"
+                    "type": "artical",
+                    "id": "f26fad9b-c725-4110-8708-33236d1d68e6"
                 }
             ],
-            "type": "class"
+            "type": "class",
+            "id": "ab56e347-646a-412a-a4d9-c206ad744e84"
+        },
+        {
+            "name": "开发指南",
+            "contents": [],
+            "type": "class",
+            "id": "5bcfa2f5-0944-4b79-8e59-f15a59b6a8c1"
         }
     ],
-    "type": "project"
+    "type": "project",
+    "id": "mighty"
 }
